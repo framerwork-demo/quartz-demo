@@ -1,4 +1,4 @@
-package com.cjm.web.service.quartz;
+package springQuartz;
 
 public class TestJob {  
     public void execute(){ 
